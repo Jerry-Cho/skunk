@@ -5,8 +5,14 @@
     "region_priority": "west_coast",
     "industry": "robotics",
     "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Venture-backed (상세 미확인)",
-    "recent_news": [],
+    "funding_stage": "Series B $100M(2024-01, $820M); $1B 라운드 협의 보도(미확정)",
+    "recent_news": [
+      {
+        "date": "2026-06",
+        "summary": "1X, $10B+ 밸류로 최대 $1B 조달 협의 보도(The Information 인용, 미확정).",
+        "source_url": "https://www.robotics.press/news/1x-technologies-company-profile/"
+      }
+    ],
     "visa_sponsorship": {
       "known": false,
       "evidence": "공고 본문에서 스폰서십 언급을 확인하지 못함. 비자 정책은 recruiting에 문의 필요.",
@@ -22,7 +28,12 @@
         "notes": "On-site San Carlos, $170k-259k + equity, 10+ yrs FuSa 및 MS/PhD 요구(집계 사이트 기준). 일부 집계 페이지는 마감 표시 → 현재 오픈 여부 미확인. HARA/FMEA/FTA 수행."
       }
     ],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-03",
+    "growth_assessment": {
+      "signal": "strong_growth",
+      "rationale": "OpenAI·EQT 등 투자, $10B+ 밸류 목표 $1B 조달 논의 보도(미확정), NEO 사전주문 1만 건 주장. 다만 검증된 최신 라운드는 미확인이고 공고에 스폰서 언급 없음.",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Joby Aviation",
@@ -32,6 +43,11 @@
     "headcount_estimate": "미확인 (verified 아님)",
     "funding_stage": "Public (NYSE: JOBY)",
     "recent_news": [
+      {
+        "date": "2026-08",
+        "summary": "Joby 2026 하반기 현금 소모 증가 전망, Archer와 소송(ITC 조사 포함) 진행.",
+        "source_url": "https://stocktwits.com/news-articles/default/equity/achr-vs-joby-boeing-deal-puts-archer-on-a-different-flight-path-as-joby-builds-toward-commercial-air-taxis/cZoZNtVRJfD"
+      },
       {
         "date": "2026-08-01",
         "summary": "FAA type certification 경쟁에서 선두; TIA flight testing 진행 중 (AVI-GO brief, 2026-08 기준).",
@@ -60,7 +76,12 @@
         "notes": "Python으로 system safety 프로세스 자동화 도구 개발 — AI 기반 safety 자동화와 직접 관련. 집계 사이트 출처, 현재 오픈 미확인."
       }
     ],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-03",
+    "growth_assessment": {
+      "signal": "stable",
+      "rationale": "매출 성장 중이나 2026 하반기 현금 소모 증가 예상, 주가 연초 대비 약 -31%. Archer와 특허/무역 소송 진행. DOT eVTOL 파일럿 프로그램 참여. 스폰서 이력은 기존 확인 유지.",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Archer Aviation",
@@ -70,6 +91,11 @@
     "headcount_estimate": "미확인 (verified 아님)",
     "funding_stage": "Public (NYSE: ACHR)",
     "recent_news": [
+      {
+        "date": "2026",
+        "summary": "Archer, FAA 797개 MoC 100% 수락(eVTOL 최초) 보도; DOT eVTOL 파일럿 프로그램 참여.",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/archer-vs-joby-evtol-race-062500997.html"
+      },
       {
         "date": "2026-08-01",
         "summary": "Midnight 최종 airworthiness criteria를 FAA가 확정; Means of Compliance 100% 수락 주장.",
@@ -91,7 +117,12 @@
         "notes": "스폰서십 불가 명시 → 지원 우선순위 낮음. 오픈 여부 미확인."
       }
     ],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-03",
+    "growth_assessment": {
+      "signal": "stable",
+      "rationale": "FAA 797개 Means of Compliance 100% 수락 최초 보도, Boeing 제휴 및 방산 확장. 다만 매출 미미한 상장사로 현금 소모 지속. 스폰서 문구는 공고에서 미확인.",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Wisk Aero (Boeing)",
@@ -116,7 +147,12 @@
         "notes": "Staff 레벨 $166-196K, hybrid (집계 사이트 기준). 직접 공고 URL 미확인 — Wisk careers 페이지에서 확인 필요."
       }
     ],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-02",
+    "growth_assessment": {
+      "signal": "unknown",
+      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Anduril Industries",
@@ -141,7 +177,12 @@
         "notes": "다수 공고 존재(Costa Mesa, Atlanta 등). Staff $126-167K. 스폰서십 문구 미확인; 방산이라 U.S. person 요건 가능성 높음."
       }
     ],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-03",
+    "growth_assessment": {
+      "signal": "unknown",
+      "rationale": "이번 주 신규 성장 데이터 미수집. Ellis 집계상 H-1B 소규모(LCA 5건, PERM 1건)이며 방산 특성상 clearance 요구로 국제 인력에 불리할 수 있음.",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Kodiak Robotics",
@@ -149,8 +190,14 @@
     "region_priority": "west_coast",
     "industry": "robotics",
     "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Public (Kodiak AI)",
-    "recent_news": [],
+    "funding_stage": "Public (NASDAQ: KDK); 2026 Q2 현금 $151.1M",
+    "recent_news": [
+      {
+        "date": "2026-08",
+        "summary": "Kodiak 2026 Q2: 드라이버리스 트럭 +7대(고객 보유 35대), 현금 $151.1M, FCF -$38.1M. Q3 결과는 검색에서 미확인.",
+        "source_url": "https://www.chartmill.com/news/KDK/Chartmill-53262-Kodiak-AI-NASDAQKDK-Jumps-46-as-Q2-Revenue-Beats-and-Driverless-Launch-Stays-on-Track"
+      }
+    ],
     "visa_sponsorship": {
       "known": true,
       "evidence": "집계 사이트가 Staff Functional Safety Engineer에 visa sponsorship 태그 표기(미검증).",
@@ -166,7 +213,12 @@
         "notes": "$146k-277k, ISO 26262 요구. 자율주행 트럭 — 사용자의 자동차 FuSa 경력과 가장 직결. 오픈 여부/귀속 회사는 집계 사이트 기준이라 검증 필요."
       }
     ],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-03",
+    "growth_assessment": {
+      "signal": "stable",
+      "rationale": "상장(KDK) 후 2026 Q2 기준 현금 $151.1M, FCF -$38.1M로 번 레이트가 높아 추가 자금조달 가능성 있음. 드라이버리스 트럭 고객 보유 35대로 성장 중. 공고에 비자 스폰서 표기.",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Saphira AI",
@@ -191,7 +243,12 @@
         "notes": "산업용 FuSa; 항공/로보틱스와는 거리 있음."
       }
     ],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-02",
+    "growth_assessment": {
+      "signal": "unknown",
+      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Zoox",
@@ -208,22 +265,32 @@
       }
     ],
     "visa_sponsorship": {
-      "known": false,
-      "evidence": "미조사",
-      "source_url": "",
-      "last_checked": "2026-11-02"
+      "known": true,
+      "evidence": "Ellis 집계: 2025 H-1B 285건, PERM 0건. 안전 직군 공고 본문의 스폰서 문구는 미확인.",
+      "source_url": "https://www.ellis.com/visa-sponsors/zoox-inc",
+      "last_checked": "2026-11-03"
     },
     "job_postings": [],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-03",
+    "growth_assessment": {
+      "signal": "stable",
+      "rationale": "Amazon 자회사로 자금 안정성은 높음; 2025 H-1B 285건(집계)로 스폰서 이력 강함. 2026말 Las Vegas/SF 유료 서비스 및 Austin/Miami 확장 보도(저신뢰). 안전 직군 공고는 이번에 신규 확인 못함.",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Waymo",
     "location": "Mountain View, CA",
     "region_priority": "west_coast",
     "industry": "robotics",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Alphabet 자회사; 2026 $16B 조달 보도(미검증)",
+    "headcount_estimate": "미확인",
+    "funding_stage": "Alphabet 자회사; 2026-02 $16B 조달, 밸류 $126B",
     "recent_news": [
+      {
+        "date": "2026-02-03",
+        "summary": "Waymo가 $16B 조달(밸류 $126B), 2026년 20+ 도시 확장 계획.",
+        "source_url": "https://www.electrive.com/2026/02/03/waymo-raises-16-billion-from-investors"
+      },
       {
         "date": "2026-08-01",
         "summary": "미국 5개 대도시에서 유료 robotaxi 확대 (약 800대 보도, 2차 출처).",
@@ -231,13 +298,18 @@
       }
     ],
     "visa_sponsorship": {
-      "known": false,
-      "evidence": "미조사",
-      "source_url": "",
-      "last_checked": "2026-11-02"
+      "known": true,
+      "evidence": "Ellis 집계: FY2026 H-1B 116건, PERM 21건; System Safety Engineer 중앙 H-1B 연봉 $188K (LCA 기록이지 공고 보장은 아님).",
+      "source_url": "https://www.ellis.com/visa-sponsors/waymo-llc",
+      "last_checked": "2026-11-03"
     },
     "job_postings": [],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-03",
+    "growth_assessment": {
+      "signal": "strong_growth",
+      "rationale": "2026-02 $16B 조달(post-money $126B)로 20+ 신규 도시 확장 계획, 자본 여력 최상급. System Safety 직군 H-1B/PERM 이력 있음(제3자 집계). 레이오프 신호는 이번에 확인 못함.",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Nuro",
@@ -245,8 +317,13 @@
     "region_priority": "west_coast",
     "industry": "robotics",
     "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Venture-backed",
+    "funding_stage": "Venture-backed; 2025-04 $106M @ $6B (down round 보도)",
     "recent_news": [
+      {
+        "date": "2025-04-10",
+        "summary": "Nuro $106M 조달, 밸류 $6B로 하향.",
+        "source_url": "https://amp.claimsjournal.com/news/national/2025/04/10/329950.htm"
+      },
       {
         "date": "2026-05-01",
         "summary": "CPUC Drivered Pilot Permit 획득; Uber-Lucid robotaxi 계획의 일부.",
@@ -260,7 +337,12 @@
       "last_checked": "2026-11-02"
     },
     "job_postings": [],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-03",
+    "growth_assessment": {
+      "signal": "caution",
+      "rationale": "2025-04 $106M를 $6B 밸류(이전 대비 하락)로 조달, 과거 복수 차례 레이오프 보도. 현재 런웨이는 미확인. 안전 표준 직군 공고에 H-1B 스폰서 언급(집계 사이트 기준, 라이브 상태 미검증).",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Aurora Innovation",
@@ -283,7 +365,12 @@
       "last_checked": "2026-11-02"
     },
     "job_postings": [],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-02",
+    "growth_assessment": {
+      "signal": "unknown",
+      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "Apptronik",
@@ -306,7 +393,12 @@
       "last_checked": "2026-11-02"
     },
     "job_postings": [],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-02",
+    "growth_assessment": {
+      "signal": "unknown",
+      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
+      "last_checked": "2026-11-03"
+    }
   },
   {
     "name": "FORT Robotics",
@@ -329,6 +421,47 @@
       "last_checked": "2026-11-02"
     },
     "job_postings": [],
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-02",
+    "growth_assessment": {
+      "signal": "unknown",
+      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
+      "last_checked": "2026-11-03"
+    }
+  },
+  {
+    "name": "Agility Robotics",
+    "location": "Salem, OR / Fremont, CA (공고 기준)",
+    "region_priority": "west_coast",
+    "industry": "robotics",
+    "headcount_estimate": "약 342명 (2025-10 프로필, 2026 프로필도 동일)",
+    "funding_stage": "2026-06-24 Churchill Capital Corp XI와 SPAC 합병 발표 ($2.5B 밸류, 총 $620M+ 중 신규 $200M); Series C $400M(2025)",
+    "recent_news": [
+      {
+        "date": "2026-06-24",
+        "summary": "Agility, Churchill Capital XI SPAC 합병으로 Nasdaq 상장 추진, 밸류 $2.5B, Digit v5 양산 자금.",
+        "source_url": "https://cryptobriefing.com/agility-robotics-spac-churchill-capital-xi/"
+      }
+    ],
+    "visa_sponsorship": {
+      "known": false,
+      "evidence": "지원서에 'employment visa sponsorship 필요 여부' 문항은 있으나 스폰서 제공 여부는 미확인.",
+      "source_url": "",
+      "last_checked": "2026-11-03"
+    },
+    "job_postings": [
+      {
+        "title": "Staff Systems Engineer, Functional Safety (Fremont, CA)",
+        "date_found": "2026-11-03",
+        "url": "",
+        "sponsorship_mentioned": false,
+        "notes": "약 $219.5K (집계 기준). 직접 공고 URL 및 라이브 여부 미확인 — 회사 careers 페이지에서 확인 필요."
+      }
+    ],
+    "growth_assessment": {
+      "signal": "strong_growth",
+      "rationale": "GXO·Schaeffler·Toyota 등 고객, 상장 추진으로 자금 확보 중이나 SPAC 종료/주주 투표 리스크와 2024-04 레이오프 이력, 소스 간 총 조달액 불일치(미해결).",
+      "last_checked": "2026-11-03"
+    },
+    "last_updated": "2026-11-03"
   }
 ]
