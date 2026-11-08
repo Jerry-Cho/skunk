@@ -1,467 +1,560 @@
 [
-  {
-    "name": "1X Technologies",
-    "location": "San Carlos, CA",
-    "region_priority": "west_coast",
-    "industry": "robotics",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Series B $100M(2024-01, $820M); $1B 라운드 협의 보도(미확정)",
-    "recent_news": [
-      {
-        "date": "2026-06",
-        "summary": "1X, $10B+ 밸류로 최대 $1B 조달 협의 보도(The Information 인용, 미확정).",
-        "source_url": "https://www.robotics.press/news/1x-technologies-company-profile/"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": false,
-      "evidence": "공고 본문에서 스폰서십 언급을 확인하지 못함. 비자 정책은 recruiting에 문의 필요.",
-      "source_url": "https://1x.recruitee.com/o/senior-staff-functional-systems-safety-engineer-robot-safety",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [
-      {
-        "title": "Senior Staff Functional Systems Safety Engineer - Robot Safety",
-        "date_found": "2026-11-02",
-        "url": "https://1x.recruitee.com/o/senior-staff-functional-systems-safety-engineer-robot-safety",
-        "sponsorship_mentioned": false,
-        "notes": "On-site San Carlos, $170k-259k + equity, 10+ yrs FuSa 및 MS/PhD 요구(집계 사이트 기준). 일부 집계 페이지는 마감 표시 → 현재 오픈 여부 미확인. HARA/FMEA/FTA 수행."
-      }
-    ],
-    "last_updated": "2026-11-03",
-    "growth_assessment": {
-      "signal": "strong_growth",
-      "rationale": "OpenAI·EQT 등 투자, $10B+ 밸류 목표 $1B 조달 논의 보도(미확정), NEO 사전주문 1만 건 주장. 다만 검증된 최신 라운드는 미확인이고 공고에 스폰서 언급 없음.",
-      "last_checked": "2026-11-03"
-    }
+ {
+  "name": "1X Technologies",
+  "location": "San Carlos, CA",
+  "region_priority": "west_coast",
+  "industry": "robotics",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Series B $100M(2024-01, $820M); $1B 라운드 협의 보도(미확정)",
+  "recent_news": [
+   {
+    "date": "2026-11-08",
+    "summary": "Senior Staff Functional/Systems Safety Engineer (Robot Safety) 공고 확인, $170-259K, San Carlos; 스폰서 문구 미확인.",
+    "source_url": "https://zerogtalent.com/space-jobs/1x/senior-staff-functional-systems-safety-engineer-robot-safety-2502306"
+   },
+   {
+    "date": "2026-06",
+    "summary": "1X, $10B+ 밸류로 최대 $1B 조달 협의 보도(The Information 인용, 미확정).",
+    "source_url": "https://www.robotics.press/news/1x-technologies-company-profile/"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": false,
+   "evidence": "공고 본문에서 스폰서십 언급을 확인하지 못함. 비자 정책은 recruiting에 문의 필요.",
+   "source_url": "https://1x.recruitee.com/o/senior-staff-functional-systems-safety-engineer-robot-safety",
+   "last_checked": "2026-11-02"
   },
-  {
-    "name": "Joby Aviation",
-    "location": "Santa Cruz, CA",
-    "region_priority": "west_coast",
-    "industry": "aircraft",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Public (NYSE: JOBY)",
-    "recent_news": [
-      {
-        "date": "2026-08",
-        "summary": "Joby 2026 하반기 현금 소모 증가 전망, Archer와 소송(ITC 조사 포함) 진행.",
-        "source_url": "https://stocktwits.com/news-articles/default/equity/achr-vs-joby-boeing-deal-puts-archer-on-a-different-flight-path-as-joby-builds-toward-commercial-air-taxis/cZoZNtVRJfD"
-      },
-      {
-        "date": "2026-08-01",
-        "summary": "FAA type certification 경쟁에서 선두; TIA flight testing 진행 중 (AVI-GO brief, 2026-08 기준).",
-        "source_url": "https://ai.avi-go.com/news/ai-news-center/news-briefs/joby-aviation-leads-archer-in-faa-certification-race-as-both-evtol-com-7c2cccae55fb2253ad88b75b146781cc"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": true,
-      "evidence": "Ellis: Joby Aero가 H-1B LCA 46건, PERM 3건 제출 (2026-04 갱신). System Safety Engineer 직군 LCA 2건 존재. 공고 자체의 스폰서십 문구는 미확인.",
-      "source_url": "https://www.ellis.com/visa-sponsors/joby-aero-inc-811445",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [
-      {
-        "title": "System Safety Engineer (+ Senior, Santa Cruz)",
-        "date_found": "2026-11-02",
-        "url": "https://careers-jobyaviation.icims.com/jobs/2516/system-safety-engineer/job",
-        "sponsorship_mentioned": false,
-        "notes": "공고 내 스폰서십 언급 미확인; H-1B 이력으로 추정(가능성 높음). 오픈 여부 미확인(icims JS 렌더링)."
-      },
-      {
-        "title": "System Safety Engineer, Automation",
-        "date_found": "2026-11-02",
-        "url": "https://jobright.ai/jobs/info/6946185563141d188455c756",
-        "sponsorship_mentioned": false,
-        "notes": "Python으로 system safety 프로세스 자동화 도구 개발 — AI 기반 safety 자동화와 직접 관련. 집계 사이트 출처, 현재 오픈 미확인."
-      }
-    ],
-    "last_updated": "2026-11-03",
-    "growth_assessment": {
-      "signal": "stable",
-      "rationale": "매출 성장 중이나 2026 하반기 현금 소모 증가 예상, 주가 연초 대비 약 -31%. Archer와 특허/무역 소송 진행. DOT eVTOL 파일럿 프로그램 참여. 스폰서 이력은 기존 확인 유지.",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Archer Aviation",
-    "location": "San Jose, CA",
-    "region_priority": "west_coast",
-    "industry": "aircraft",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Public (NYSE: ACHR)",
-    "recent_news": [
-      {
-        "date": "2026",
-        "summary": "Archer, FAA 797개 MoC 100% 수락(eVTOL 최초) 보도; DOT eVTOL 파일럿 프로그램 참여.",
-        "source_url": "https://finance.yahoo.com/markets/stocks/articles/archer-vs-joby-evtol-race-062500997.html"
-      },
-      {
-        "date": "2026-08-01",
-        "summary": "Midnight 최종 airworthiness criteria를 FAA가 확정; Means of Compliance 100% 수락 주장.",
-        "source_url": "https://www.globalair.com/articles/archer-midnight-gets-final-airworthiness-criteria-from-faa/7454"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": false,
-      "evidence": "Sr. Systems Safety Engineer 공고에 '현재 work visa sponsorship 제공 불가' 명시 (집계 사이트 인용).",
-      "source_url": "https://builtin.com/job/sr-systems-safety-engineer/7283874",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [
-      {
-        "title": "Sr. Systems Safety Engineer (flight controls & powertrain)",
-        "date_found": "2026-11-02",
-        "url": "https://builtin.com/job/sr-systems-safety-engineer/7283874",
-        "sponsorship_mentioned": true,
-        "notes": "스폰서십 불가 명시 → 지원 우선순위 낮음. 오픈 여부 미확인."
-      }
-    ],
-    "last_updated": "2026-11-03",
-    "growth_assessment": {
-      "signal": "stable",
-      "rationale": "FAA 797개 Means of Compliance 100% 수락 최초 보도, Boeing 제휴 및 방산 확장. 다만 매출 미미한 상장사로 현금 소모 지속. 스폰서 문구는 공고에서 미확인.",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Wisk Aero (Boeing)",
-    "location": "Mountain View, CA",
-    "region_priority": "west_coast",
-    "industry": "aircraft",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Boeing 100% 자회사",
-    "recent_news": [],
-    "visa_sponsorship": {
-      "known": true,
-      "evidence": "myvisajobs: FY2025 I-129 H-1B 19건 제출/19건 승인, LCA 28건, 그린카드 LC 5건. (Ellis는 LCA 29건/PERM 0건으로 상이.)",
-      "source_url": "https://myvisajobs.com/Visa-Sponsor/Wisk-Aero/1427102.htm",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [
-      {
-        "title": "Systems Safety Engineer (Junior) / Staff Systems Safety Engineer",
-        "date_found": "2026-11-02",
-        "url": "https://myvisajobs.com/Visa-Sponsor/Wisk-Aero/1427102.htm",
-        "sponsorship_mentioned": false,
-        "notes": "Staff 레벨 $166-196K, hybrid (집계 사이트 기준). 직접 공고 URL 미확인 — Wisk careers 페이지에서 확인 필요."
-      }
-    ],
-    "last_updated": "2026-11-02",
-    "growth_assessment": {
-      "signal": "unknown",
-      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Anduril Industries",
-    "location": "Costa Mesa, CA",
-    "region_priority": "west_coast",
-    "industry": "aerospace",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Late-stage private",
-    "recent_news": [],
-    "visa_sponsorship": {
-      "known": false,
-      "evidence": "혼재: myvisajobs상 H-1B 이력 매우 적음(FY2022-24 LCA 3건); 일부 공고는 H-1B 가능, 2026-06 missile 공고는 'No H1B sponsorship'. 국방 특성상 ITAR/시민권 제약 가능.",
-      "source_url": "https://www.myvisajobs.com/Visa-Sponsor/Anduril-Industries/1442163.htm",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [
-      {
-        "title": "Systems Safety Engineer (Costa Mesa) / Senior / Staff System Safety Engineer",
-        "date_found": "2026-11-02",
-        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5158195007",
-        "sponsorship_mentioned": false,
-        "notes": "다수 공고 존재(Costa Mesa, Atlanta 등). Staff $126-167K. 스폰서십 문구 미확인; 방산이라 U.S. person 요건 가능성 높음."
-      }
-    ],
-    "last_updated": "2026-11-03",
-    "growth_assessment": {
-      "signal": "unknown",
-      "rationale": "이번 주 신규 성장 데이터 미수집. Ellis 집계상 H-1B 소규모(LCA 5건, PERM 1건)이며 방산 특성상 clearance 요구로 국제 인력에 불리할 수 있음.",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Kodiak Robotics",
-    "location": "Mountain View, CA",
-    "region_priority": "west_coast",
-    "industry": "robotics",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Public (NASDAQ: KDK); 2026 Q2 현금 $151.1M",
-    "recent_news": [
-      {
-        "date": "2026-08",
-        "summary": "Kodiak 2026 Q2: 드라이버리스 트럭 +7대(고객 보유 35대), 현금 $151.1M, FCF -$38.1M. Q3 결과는 검색에서 미확인.",
-        "source_url": "https://www.chartmill.com/news/KDK/Chartmill-53262-Kodiak-AI-NASDAQKDK-Jumps-46-as-Q2-Revenue-Beats-and-Driverless-Launch-Stays-on-Track"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": true,
-      "evidence": "집계 사이트가 Staff Functional Safety Engineer에 visa sponsorship 태그 표기(미검증).",
-      "source_url": "https://simplify.jobs/p/680a688b-1888-4287-a11c-3d21ede290b8/Staff-Functional-Safety-Engineer",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [
-      {
-        "title": "Staff Functional Safety Engineer",
-        "date_found": "2026-11-02",
-        "url": "https://simplify.jobs/p/680a688b-1888-4287-a11c-3d21ede290b8/Staff-Functional-Safety-Engineer",
-        "sponsorship_mentioned": true,
-        "notes": "$146k-277k, ISO 26262 요구. 자율주행 트럭 — 사용자의 자동차 FuSa 경력과 가장 직결. 오픈 여부/귀속 회사는 집계 사이트 기준이라 검증 필요."
-      }
-    ],
-    "last_updated": "2026-11-03",
-    "growth_assessment": {
-      "signal": "stable",
-      "rationale": "상장(KDK) 후 2026 Q2 기준 현금 $151.1M, FCF -$38.1M로 번 레이트가 높아 추가 자금조달 가능성 있음. 드라이버리스 트럭 고객 보유 35대로 성장 중. 공고에 비자 스폰서 표기.",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Saphira AI",
-    "location": "San Francisco, CA",
-    "region_priority": "west_coast",
-    "industry": "other",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "YC S24",
-    "recent_news": [],
-    "visa_sponsorship": {
-      "known": false,
-      "evidence": "공고에 'US citizenship/visa not required' 문구 — 모호, 스폰서십 확약 아님.",
-      "source_url": "https://www.workatastartup.com/jobs/79326",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [
-      {
-        "title": "Senior Industrial Functional Safety Engineer",
-        "date_found": "2026-11-02",
-        "url": "https://www.workatastartup.com/jobs/79326",
-        "sponsorship_mentioned": false,
-        "notes": "산업용 FuSa; 항공/로보틱스와는 거리 있음."
-      }
-    ],
-    "last_updated": "2026-11-02",
-    "growth_assessment": {
-      "signal": "unknown",
-      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Zoox",
-    "location": "Foster City, CA",
-    "region_priority": "west_coast",
-    "industry": "robotics",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Amazon 자회사",
-    "recent_news": [
-      {
-        "date": "2026-08-10",
-        "summary": "NHTSA 임시 면제로 연 최대 2,500대 steering-wheel-free robotaxi 상업 운영; Las Vegas 유료 운행 시작 보도.",
-        "source_url": "https://autoconnectedcar.com/2026/05/autonomous-self-driving-vehicle-news-nuro-uber-lucid-aurora-innoviz-aeva-daimler-volvo-ouster-hpe-kodiak-ai/"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": true,
-      "evidence": "Ellis 집계: 2025 H-1B 285건, PERM 0건. 안전 직군 공고 본문의 스폰서 문구는 미확인.",
-      "source_url": "https://www.ellis.com/visa-sponsors/zoox-inc",
-      "last_checked": "2026-11-03"
-    },
-    "job_postings": [],
-    "last_updated": "2026-11-03",
-    "growth_assessment": {
-      "signal": "stable",
-      "rationale": "Amazon 자회사로 자금 안정성은 높음; 2025 H-1B 285건(집계)로 스폰서 이력 강함. 2026말 Las Vegas/SF 유료 서비스 및 Austin/Miami 확장 보도(저신뢰). 안전 직군 공고는 이번에 신규 확인 못함.",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Waymo",
-    "location": "Mountain View, CA",
-    "region_priority": "west_coast",
-    "industry": "robotics",
-    "headcount_estimate": "미확인",
-    "funding_stage": "Alphabet 자회사; 2026-02 $16B 조달, 밸류 $126B",
-    "recent_news": [
-      {
-        "date": "2026-02-03",
-        "summary": "Waymo가 $16B 조달(밸류 $126B), 2026년 20+ 도시 확장 계획.",
-        "source_url": "https://www.electrive.com/2026/02/03/waymo-raises-16-billion-from-investors"
-      },
-      {
-        "date": "2026-08-01",
-        "summary": "미국 5개 대도시에서 유료 robotaxi 확대 (약 800대 보도, 2차 출처).",
-        "source_url": "https://refurbo.in/blogs/autonomous-robotaxis-explained-how-zoox-and-waymo-are-expanding-in-2026"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": true,
-      "evidence": "Ellis 집계: FY2026 H-1B 116건, PERM 21건; System Safety Engineer 중앙 H-1B 연봉 $188K (LCA 기록이지 공고 보장은 아님).",
-      "source_url": "https://www.ellis.com/visa-sponsors/waymo-llc",
-      "last_checked": "2026-11-03"
-    },
-    "job_postings": [],
-    "last_updated": "2026-11-03",
-    "growth_assessment": {
-      "signal": "strong_growth",
-      "rationale": "2026-02 $16B 조달(post-money $126B)로 20+ 신규 도시 확장 계획, 자본 여력 최상급. System Safety 직군 H-1B/PERM 이력 있음(제3자 집계). 레이오프 신호는 이번에 확인 못함.",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Nuro",
-    "location": "Mountain View, CA",
-    "region_priority": "west_coast",
-    "industry": "robotics",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Venture-backed; 2025-04 $106M @ $6B (down round 보도)",
-    "recent_news": [
-      {
-        "date": "2025-04-10",
-        "summary": "Nuro $106M 조달, 밸류 $6B로 하향.",
-        "source_url": "https://amp.claimsjournal.com/news/national/2025/04/10/329950.htm"
-      },
-      {
-        "date": "2026-05-01",
-        "summary": "CPUC Drivered Pilot Permit 획득; Uber-Lucid robotaxi 계획의 일부.",
-        "source_url": "https://www.autoconnectedcar.com/2026/05/autonomous-self-driving-vehicle-news-nuro-uber-lucid-aurora-innoviz-aeva-daimler-volvo-ouster-hpe-kodiak-ai/"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": false,
-      "evidence": "미조사",
-      "source_url": "",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [],
-    "last_updated": "2026-11-03",
-    "growth_assessment": {
-      "signal": "caution",
-      "rationale": "2025-04 $106M를 $6B 밸류(이전 대비 하락)로 조달, 과거 복수 차례 레이오프 보도. 현재 런웨이는 미확인. 안전 표준 직군 공고에 H-1B 스폰서 언급(집계 사이트 기준, 라이브 상태 미검증).",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Aurora Innovation",
-    "location": "Pittsburgh, PA (CA 오피스)",
-    "region_priority": "other",
-    "industry": "robotics",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Public",
-    "recent_news": [
-      {
-        "date": "2026-07-01",
-        "summary": "Texas에서 driverless freight 운영; 2026년 말까지 Sun Belt 확대 목표, 2세대 트럭 시작.",
-        "source_url": "https://www.autoconnectedcar.com/2026/05/autonomous-self-driving-vehicle-news-waymo-aurora-hertz-oro-uber-deeproute-ai-venti-fedex-innoviz-aeye-syntech-ibm-dallara/"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": false,
-      "evidence": "미조사",
-      "source_url": "",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [],
-    "last_updated": "2026-11-02",
-    "growth_assessment": {
-      "signal": "unknown",
-      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Apptronik",
-    "location": "Austin, TX",
-    "region_priority": "other",
-    "industry": "robotics",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "약 $520M 신규 조달 보도 (날짜 미확인, 밸류 $5.5B+)",
-    "recent_news": [
-      {
-        "date": "2026-01-01",
-        "summary": "약 $520M 신규 펀딩 보도 (날짜 불명확, Google·Mercedes-Benz 등 기존 투자자 주도).",
-        "source_url": "https://oodaloop.com/briefs/technology/apptronik-raises-520-million-in-new-funding-to-build-more-humanoids/"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": false,
-      "evidence": "미조사",
-      "source_url": "",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [],
-    "last_updated": "2026-11-02",
-    "growth_assessment": {
-      "signal": "unknown",
-      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "FORT Robotics",
-    "location": "Philadelphia, PA",
-    "region_priority": "other",
-    "industry": "robotics",
-    "headcount_estimate": "미확인 (verified 아님)",
-    "funding_stage": "Series B 총 $60.5M",
-    "recent_news": [
-      {
-        "date": "2025-08-07",
-        "summary": "Series B 추가 $18.9M (총 $60.5M) — 로봇 safety/제어 시스템. (일부 페이지는 2026-10 표기, 원 발표는 2025로 보임)",
-        "source_url": "https://www.robotics247.com/article/fort_robotics_secures_additional_18.9_m_in_series_b_bringing_total_funding_to_60.5_m/fort_robotics"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": false,
-      "evidence": "미조사",
-      "source_url": "",
-      "last_checked": "2026-11-02"
-    },
-    "job_postings": [],
-    "last_updated": "2026-11-02",
-    "growth_assessment": {
-      "signal": "unknown",
-      "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
-      "last_checked": "2026-11-03"
-    }
-  },
-  {
-    "name": "Agility Robotics",
-    "location": "Salem, OR / Fremont, CA (공고 기준)",
-    "region_priority": "west_coast",
-    "industry": "robotics",
-    "headcount_estimate": "약 342명 (2025-10 프로필, 2026 프로필도 동일)",
-    "funding_stage": "2026-06-24 Churchill Capital Corp XI와 SPAC 합병 발표 ($2.5B 밸류, 총 $620M+ 중 신규 $200M); Series C $400M(2025)",
-    "recent_news": [
-      {
-        "date": "2026-06-24",
-        "summary": "Agility, Churchill Capital XI SPAC 합병으로 Nasdaq 상장 추진, 밸류 $2.5B, Digit v5 양산 자금.",
-        "source_url": "https://cryptobriefing.com/agility-robotics-spac-churchill-capital-xi/"
-      }
-    ],
-    "visa_sponsorship": {
-      "known": false,
-      "evidence": "지원서에 'employment visa sponsorship 필요 여부' 문항은 있으나 스폰서 제공 여부는 미확인.",
-      "source_url": "",
-      "last_checked": "2026-11-03"
-    },
-    "job_postings": [
-      {
-        "title": "Staff Systems Engineer, Functional Safety (Fremont, CA)",
-        "date_found": "2026-11-03",
-        "url": "",
-        "sponsorship_mentioned": false,
-        "notes": "약 $219.5K (집계 기준). 직접 공고 URL 및 라이브 여부 미확인 — 회사 careers 페이지에서 확인 필요."
-      }
-    ],
-    "growth_assessment": {
-      "signal": "strong_growth",
-      "rationale": "GXO·Schaeffler·Toyota 등 고객, 상장 추진으로 자금 확보 중이나 SPAC 종료/주주 투표 리스크와 2024-04 레이오프 이력, 소스 간 총 조달액 불일치(미해결).",
-      "last_checked": "2026-11-03"
-    },
-    "last_updated": "2026-11-03"
+  "job_postings": [
+   {
+    "title": "Senior Staff Functional Systems Safety Engineer - Robot Safety",
+    "date_found": "2026-11-02",
+    "url": "https://1x.recruitee.com/o/senior-staff-functional-systems-safety-engineer-robot-safety",
+    "sponsorship_mentioned": false,
+    "notes": "On-site San Carlos, $170k-259k + equity, 10+ yrs FuSa 및 MS/PhD 요구(집계 사이트 기준). 일부 집계 페이지는 마감 표시 → 현재 오픈 여부 미확인. HARA/FMEA/FTA 수행."
+   }
+  ],
+  "last_updated": "2026-11-08",
+  "growth_assessment": {
+   "signal": "strong_growth",
+   "rationale": "OpenAI·EQT 등 투자, $10B+ 밸류 목표 $1B 조달 논의 보도(미확정), NEO 사전주문 1만 건 주장. 다만 검증된 최신 라운드는 미확인이고 공고에 스폰서 언급 없음.",
+   "last_checked": "2026-11-03"
   }
+ },
+ {
+  "name": "Joby Aviation",
+  "location": "Santa Cruz, CA",
+  "region_priority": "west_coast",
+  "industry": "aircraft",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Public (NYSE: JOBY)",
+  "recent_news": [
+   {
+    "date": "2026-09-10",
+    "summary": "Texas(DFW) eIPP 시연 비행 9/10-15 예정; FAA 5단계 인증 중 Stage 4 도달(유일). Archer와의 소송 ADR 기한 9/10 — 결과 미확인.",
+    "source_url": "https://www.compositesworld.com/news/joby-evtol-moves-toward-final-stages-of-certification-builds-global-aam-framework"
+   },
+   {
+    "date": "2026-08",
+    "summary": "Joby 2026 하반기 현금 소모 증가 전망, Archer와 소송(ITC 조사 포함) 진행.",
+    "source_url": "https://stocktwits.com/news-articles/default/equity/achr-vs-joby-boeing-deal-puts-archer-on-a-different-flight-path-as-joby-builds-toward-commercial-air-taxis/cZoZNtVRJfD"
+   },
+   {
+    "date": "2026-08-01",
+    "summary": "FAA type certification 경쟁에서 선두; TIA flight testing 진행 중 (AVI-GO brief, 2026-08 기준).",
+    "source_url": "https://ai.avi-go.com/news/ai-news-center/news-briefs/joby-aviation-leads-archer-in-faa-certification-race-as-both-evtol-com-7c2cccae55fb2253ad88b75b146781cc"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": true,
+   "evidence": "Ellis: Joby Aero가 H-1B LCA 46건, PERM 3건 제출 (2026-04 갱신). System Safety Engineer 직군 LCA 2건 존재. 공고 자체의 스폰서십 문구는 미확인.",
+   "source_url": "https://www.ellis.com/visa-sponsors/joby-aero-inc-811445",
+   "last_checked": "2026-11-02"
+  },
+  "job_postings": [
+   {
+    "title": "System Safety Engineer (+ Senior, Santa Cruz)",
+    "date_found": "2026-11-02",
+    "url": "https://careers-jobyaviation.icims.com/jobs/2516/system-safety-engineer/job",
+    "sponsorship_mentioned": false,
+    "notes": "공고 내 스폰서십 언급 미확인; H-1B 이력으로 추정(가능성 높음). 오픈 여부 미확인(icims JS 렌더링)."
+   },
+   {
+    "title": "System Safety Engineer, Automation",
+    "date_found": "2026-11-02",
+    "url": "https://jobright.ai/jobs/info/6946185563141d188455c756",
+    "sponsorship_mentioned": false,
+    "notes": "Python으로 system safety 프로세스 자동화 도구 개발 — AI 기반 safety 자동화와 직접 관련. 집계 사이트 출처, 현재 오픈 미확인."
+   }
+  ],
+  "last_updated": "2026-11-08",
+  "growth_assessment": {
+   "signal": "stable",
+   "rationale": "매출 성장 중이나 2026 하반기 현금 소모 증가 예상, 주가 연초 대비 약 -31%. Archer와 특허/무역 소송 진행. DOT eVTOL 파일럿 프로그램 참여. 스폰서 이력은 기존 확인 유지.",
+   "last_checked": "2026-11-03"
+  }
+ },
+ {
+  "name": "Archer Aviation",
+  "location": "San Jose, CA",
+  "region_priority": "west_coast",
+  "industry": "aircraft",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Public (NYSE: ACHR)",
+  "recent_news": [
+   {
+    "date": "2026-09-18",
+    "summary": "Boeing의 Wisk·Insitu·SkyGrid 인수 계약(8/9 체결) 관련 규제 대기기간 9/18 만료; 기타 closing 조건 대기. Anduril과 하이브리드 VTOL \"Thunder\" 공개(7/20, 첫 비행 2027).",
+    "source_url": "https://s206.q4cdn.com/823642595/files/doc_news/Archer-Announces-Second-Quarter-2026-Results-Announces-Deal-with-Boeing-to-Shape-Physical-AI-Future-of-Aerospace-and-Defense-2026.pdf"
+   },
+   {
+    "date": "2026",
+    "summary": "Archer, FAA 797개 MoC 100% 수락(eVTOL 최초) 보도; DOT eVTOL 파일럿 프로그램 참여.",
+    "source_url": "https://finance.yahoo.com/markets/stocks/articles/archer-vs-joby-evtol-race-062500997.html"
+   },
+   {
+    "date": "2026-08-01",
+    "summary": "Midnight 최종 airworthiness criteria를 FAA가 확정; Means of Compliance 100% 수락 주장.",
+    "source_url": "https://www.globalair.com/articles/archer-midnight-gets-final-airworthiness-criteria-from-faa/7454"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": false,
+   "evidence": "Sr. Systems Safety Engineer 공고에 '현재 work visa sponsorship 제공 불가' 명시 (집계 사이트 인용).",
+   "source_url": "https://builtin.com/job/sr-systems-safety-engineer/7283874",
+   "last_checked": "2026-11-02"
+  },
+  "job_postings": [
+   {
+    "title": "Sr. Systems Safety Engineer (flight controls & powertrain)",
+    "date_found": "2026-11-02",
+    "url": "https://builtin.com/job/sr-systems-safety-engineer/7283874",
+    "sponsorship_mentioned": true,
+    "notes": "스폰서십 불가 명시 → 지원 우선순위 낮음. 오픈 여부 미확인."
+   }
+  ],
+  "last_updated": "2026-11-08",
+  "growth_assessment": {
+   "signal": "stable",
+   "rationale": "Boeing 투자·자산 인수(Wisk 포함 계약, closing 미확정)와 Anduril 방산 협업으로 후원자/수요 확대. 다만 매출 미미한 상장사로 현금 소모와 Joby와의 법적 분쟁 리스크 있음. 공고상 스폰서 불가 명시.",
+   "last_checked": "2026-11-08"
+  }
+ },
+ {
+  "name": "Wisk Aero (Boeing)",
+  "location": "Mountain View, CA",
+  "region_priority": "west_coast",
+  "industry": "aircraft",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Boeing 100% 자회사",
+  "recent_news": [],
+  "visa_sponsorship": {
+   "known": true,
+   "evidence": "myvisajobs: FY2025 I-129 H-1B 19건 제출/19건 승인, LCA 28건, 그린카드 LC 5건. (Ellis는 LCA 29건/PERM 0건으로 상이.)",
+   "source_url": "https://myvisajobs.com/Visa-Sponsor/Wisk-Aero/1427102.htm",
+   "last_checked": "2026-11-02"
+  },
+  "job_postings": [
+   {
+    "title": "Systems Safety Engineer (Junior) / Staff Systems Safety Engineer",
+    "date_found": "2026-11-02",
+    "url": "https://myvisajobs.com/Visa-Sponsor/Wisk-Aero/1427102.htm",
+    "sponsorship_mentioned": false,
+    "notes": "Staff 레벨 $166-196K, hybrid (집계 사이트 기준). 직접 공고 URL 미확인 — Wisk careers 페이지에서 확인 필요."
+   }
+  ],
+  "last_updated": "2026-11-02",
+  "growth_assessment": {
+   "signal": "unknown",
+   "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
+   "last_checked": "2026-11-03"
+  }
+ },
+ {
+  "name": "Anduril Industries",
+  "location": "Costa Mesa, CA",
+  "region_priority": "west_coast",
+  "industry": "aerospace",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Late-stage private",
+  "recent_news": [
+   {
+    "date": "2026-07",
+    "summary": "최근 closed 밸류 $61B(2026-05); 7월 보도상 ~$100B 밸류 라운드 협상 중(미확정). Archer와 Thunder VTOL 공동 개발.",
+    "source_url": "https://droneintelligence.ai/insights/data-note-2026-10-21"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": false,
+   "evidence": "혼재: myvisajobs상 H-1B 이력 매우 적음(FY2022-24 LCA 3건); 일부 공고는 H-1B 가능, 2026-06 missile 공고는 'No H1B sponsorship'. 국방 특성상 ITAR/시민권 제약 가능.",
+   "source_url": "https://www.myvisajobs.com/Visa-Sponsor/Anduril-Industries/1442163.htm",
+   "last_checked": "2026-11-02"
+  },
+  "job_postings": [
+   {
+    "title": "Systems Safety Engineer (Costa Mesa) / Senior / Staff System Safety Engineer",
+    "date_found": "2026-11-02",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5158195007",
+    "sponsorship_mentioned": false,
+    "notes": "다수 공고 존재(Costa Mesa, Atlanta 등). Staff $126-167K. 스폰서십 문구 미확인; 방산이라 U.S. person 요건 가능성 높음."
+   }
+  ],
+  "last_updated": "2026-11-08",
+  "growth_assessment": {
+   "signal": "strong_growth",
+   "rationale": "$61B 밸류(5월), ~$100B 라운드 협상 보도(미확정), Archer 협업 등 성장 속도 매우 빠름. 단, 방산 특성상 U.S. person/ITAR 제약과 낮은 H-1B 이력 때문에 외국인 지원자에게는 접근성이 낮음.",
+   "last_checked": "2026-11-08"
+  }
+ },
+ {
+  "name": "Kodiak Robotics",
+  "location": "Mountain View, CA",
+  "region_priority": "west_coast",
+  "industry": "robotics",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Public (NASDAQ: KDK); 2026 Q2 현금 $151.1M",
+  "recent_news": [
+   {
+    "date": "2026-11-08",
+    "summary": "Autonomy Systems Safety Engineer 공고 H-1B sponsor 태그(제3자).",
+    "source_url": "https://jobright.ai/jobs/info/693b24a85f2c001987ed237e"
+   },
+   {
+    "date": "2026-08",
+    "summary": "Kodiak 2026 Q2: 드라이버리스 트럭 +7대(고객 보유 35대), 현금 $151.1M, FCF -$38.1M. Q3 결과는 검색에서 미확인.",
+    "source_url": "https://www.chartmill.com/news/KDK/Chartmill-53262-Kodiak-AI-NASDAQKDK-Jumps-46-as-Q2-Revenue-Beats-and-Driverless-Launch-Stays-on-Track"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": true,
+   "evidence": "집계 사이트가 Staff Functional Safety Engineer에 visa sponsorship 태그 표기(미검증).",
+   "source_url": "https://simplify.jobs/p/680a688b-1888-4287-a11c-3d21ede290b8/Staff-Functional-Safety-Engineer",
+   "last_checked": "2026-11-08"
+  },
+  "job_postings": [
+   {
+    "title": "Staff Functional Safety Engineer",
+    "date_found": "2026-11-02",
+    "url": "https://simplify.jobs/p/680a688b-1888-4287-a11c-3d21ede290b8/Staff-Functional-Safety-Engineer",
+    "sponsorship_mentioned": true,
+    "notes": "$146k-277k, ISO 26262 요구. 자율주행 트럭 — 사용자의 자동차 FuSa 경력과 가장 직결. 오픈 여부/귀속 회사는 집계 사이트 기준이라 검증 필요."
+   }
+  ],
+  "last_updated": "2026-11-08",
+  "growth_assessment": {
+   "signal": "stable",
+   "rationale": "상장(KDK) 후 2026 Q2 기준 현금 $151.1M, FCF -$38.1M로 번 레이트가 높아 추가 자금조달 가능성 있음. 드라이버리스 트럭 고객 보유 35대로 성장 중. 공고에 비자 스폰서 표기.",
+   "last_checked": "2026-11-03"
+  }
+ },
+ {
+  "name": "Saphira AI",
+  "location": "San Francisco, CA",
+  "region_priority": "west_coast",
+  "industry": "other",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "YC S24",
+  "recent_news": [],
+  "visa_sponsorship": {
+   "known": false,
+   "evidence": "공고에 'US citizenship/visa not required' 문구 — 모호, 스폰서십 확약 아님.",
+   "source_url": "https://www.workatastartup.com/jobs/79326",
+   "last_checked": "2026-11-02"
+  },
+  "job_postings": [
+   {
+    "title": "Senior Industrial Functional Safety Engineer",
+    "date_found": "2026-11-02",
+    "url": "https://www.workatastartup.com/jobs/79326",
+    "sponsorship_mentioned": false,
+    "notes": "산업용 FuSa; 항공/로보틱스와는 거리 있음."
+   }
+  ],
+  "last_updated": "2026-11-02",
+  "growth_assessment": {
+   "signal": "unknown",
+   "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
+   "last_checked": "2026-11-03"
+  }
+ },
+ {
+  "name": "Zoox",
+  "location": "Foster City, CA",
+  "region_priority": "west_coast",
+  "industry": "robotics",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Amazon 자회사",
+  "recent_news": [
+   {
+    "date": "2026-11-08",
+    "summary": "Systems Safety Engineer(Compute Platform) 공고가 H-1B 스폰서 태그(제3자 집계)로 노출; H-1B LCA 기록상 Systems Engineer $160-180K.",
+    "source_url": "https://h1bjobs.ellis.com/companies/zoox/jobs/43669120-systems-safety-engineer-operational-tools-intern"
+   },
+   {
+    "date": "2026-08-10",
+    "summary": "NHTSA 임시 면제로 연 최대 2,500대 steering-wheel-free robotaxi 상업 운영; Las Vegas 유료 운행 시작 보도.",
+    "source_url": "https://autoconnectedcar.com/2026/05/autonomous-self-driving-vehicle-news-nuro-uber-lucid-aurora-innoviz-aeva-daimler-volvo-ouster-hpe-kodiak-ai/"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": true,
+   "evidence": "Ellis 집계: 2025 H-1B 285건, PERM 0건. 안전 직군 공고 본문의 스폰서 문구는 미확인. 2026-11-08: 제3자 집계의 H-1B sponsor 태그 + h1bdata LCA 기록(Systems Engineer $160-180K) 확인.",
+   "source_url": "https://www.ellis.com/visa-sponsors/zoox-inc",
+   "last_checked": "2026-11-08"
+  },
+  "job_postings": [
+   {
+    "title": "Compute Platform System Safety Engineer",
+    "date_found": "2026-11-08",
+    "url": "https://jobright.ai/jobs/info/6986bb890f6f7e7a2ce1d623",
+    "sponsorship_mentioned": true,
+    "notes": "jobright.ai의 'H-1B sponsor' 태그(제3자, 공고 원문 미확인); 오픈 여부 미확인. 3년+ safety-critical(ADAS/AV/항공/로봇) 경력 요구."
+   }
+  ],
+  "last_updated": "2026-11-08",
+  "growth_assessment": {
+   "signal": "stable",
+   "rationale": "Amazon 자회사로 자금 안정성은 높음; 2025 H-1B 285건(집계)로 스폰서 이력 강함. 2026말 Las Vegas/SF 유료 서비스 및 Austin/Miami 확장 보도(저신뢰). 안전 직군 공고는 이번에 신규 확인 못함.",
+   "last_checked": "2026-11-03"
+  }
+ },
+ {
+  "name": "Waymo",
+  "location": "Mountain View, CA",
+  "region_priority": "west_coast",
+  "industry": "robotics",
+  "headcount_estimate": "미확인",
+  "funding_stage": "Alphabet 자회사; 2026-02 $16B 조달, 밸류 $126B",
+  "recent_news": [
+   {
+    "date": "2026-02-03",
+    "summary": "Waymo가 $16B 조달(밸류 $126B), 2026년 20+ 도시 확장 계획.",
+    "source_url": "https://www.electrive.com/2026/02/03/waymo-raises-16-billion-from-investors"
+   },
+   {
+    "date": "2026-08-01",
+    "summary": "미국 5개 대도시에서 유료 robotaxi 확대 (약 800대 보도, 2차 출처).",
+    "source_url": "https://refurbo.in/blogs/autonomous-robotaxis-explained-how-zoox-and-waymo-are-expanding-in-2026"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": true,
+   "evidence": "Ellis 집계: FY2026 H-1B 116건, PERM 21건; System Safety Engineer 중앙 H-1B 연봉 $188K (LCA 기록이지 공고 보장은 아님).",
+   "source_url": "https://www.ellis.com/visa-sponsors/waymo-llc",
+   "last_checked": "2026-11-03"
+  },
+  "job_postings": [],
+  "last_updated": "2026-11-03",
+  "growth_assessment": {
+   "signal": "strong_growth",
+   "rationale": "2026-02 $16B 조달(post-money $126B)로 20+ 신규 도시 확장 계획, 자본 여력 최상급. System Safety 직군 H-1B/PERM 이력 있음(제3자 집계). 레이오프 신호는 이번에 확인 못함.",
+   "last_checked": "2026-11-03"
+  }
+ },
+ {
+  "name": "Nuro",
+  "location": "Mountain View, CA",
+  "region_priority": "west_coast",
+  "industry": "robotics",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Venture-backed; 2025-04 $106M @ $6B (down round 보도)",
+  "recent_news": [
+   {
+    "date": "2026-11-08",
+    "summary": "Senior/Staff Safety Standards Engineer 공고(safety case, V&V 경력)가 H-1B 스폰서 태그(제3자)로 노출.",
+    "source_url": "https://jobright.ai/jobs/info/69607c5b7ebc25398eb66e72"
+   },
+   {
+    "date": "2025-04-10",
+    "summary": "Nuro $106M 조달, 밸류 $6B로 하향.",
+    "source_url": "https://amp.claimsjournal.com/news/national/2025/04/10/329950.htm"
+   },
+   {
+    "date": "2026-05-01",
+    "summary": "CPUC Drivered Pilot Permit 획득; Uber-Lucid robotaxi 계획의 일부.",
+    "source_url": "https://www.autoconnectedcar.com/2026/05/autonomous-self-driving-vehicle-news-nuro-uber-lucid-aurora-innoviz-aeva-daimler-volvo-ouster-hpe-kodiak-ai/"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": true,
+   "evidence": "미조사 2026-11-08: 안전 직군 공고에 H-1B sponsor 태그(제3자, 원문 미검증).",
+   "source_url": "",
+   "last_checked": "2026-11-08"
+  },
+  "job_postings": [
+   {
+    "title": "Senior/Staff Safety Standards Engineer",
+    "date_found": "2026-11-08",
+    "url": "https://jobright.ai/jobs/info/69607c5b7ebc25398eb66e72",
+    "sponsorship_mentioned": true,
+    "notes": "jobright 태그(제3자)로 H-1B sponsor 표시; safety argumentation/safety case/V&V 경력 요구 — 프로필 적합도 높음. 오픈 여부 미확인."
+   }
+  ],
+  "last_updated": "2026-11-08",
+  "growth_assessment": {
+   "signal": "caution",
+   "rationale": "2025-04 $106M를 $6B 밸류(이전 대비 하락)로 조달, 과거 복수 차례 레이오프 보도. 현재 런웨이는 미확인. 안전 표준 직군 공고에 H-1B 스폰서 언급(집계 사이트 기준, 라이브 상태 미검증).",
+   "last_checked": "2026-11-03"
+  }
+ },
+ {
+  "name": "Aurora Innovation",
+  "location": "Pittsburgh, PA (CA 오피스)",
+  "region_priority": "other",
+  "industry": "robotics",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Public",
+  "recent_news": [
+   {
+    "date": "2026-07-01",
+    "summary": "Texas에서 driverless freight 운영; 2026년 말까지 Sun Belt 확대 목표, 2세대 트럭 시작.",
+    "source_url": "https://www.autoconnectedcar.com/2026/05/autonomous-self-driving-vehicle-news-waymo-aurora-hertz-oro-uber-deeproute-ai-venti-fedex-innoviz-aeye-syntech-ibm-dallara/"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": false,
+   "evidence": "미조사",
+   "source_url": "",
+   "last_checked": "2026-11-02"
+  },
+  "job_postings": [],
+  "last_updated": "2026-11-02",
+  "growth_assessment": {
+   "signal": "unknown",
+   "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
+   "last_checked": "2026-11-03"
+  }
+ },
+ {
+  "name": "Apptronik",
+  "location": "Austin, TX",
+  "region_priority": "other",
+  "industry": "robotics",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Series A 누적 $935M+ (2026-02 보도, extension $520M)",
+  "recent_news": [
+   {
+    "date": "2026-02-11",
+    "summary": "Series A 누적 $935M+ (신규 $520M extension) 보도.",
+    "source_url": "https://www.pulse.bot/venture-capital/news/apptronik-closes-over-935m-series-a-with-new-520m-extension-round-c3063e7d-f3b9-44e6-ba04-b7bc3f7dec0f"
+   },
+   {
+    "date": "2026-01-01",
+    "summary": "약 $520M 신규 펀딩 보도 (날짜 불명확, Google·Mercedes-Benz 등 기존 투자자 주도).",
+    "source_url": "https://oodaloop.com/briefs/technology/apptronik-raises-520-million-in-new-funding-to-build-more-humanoids/"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": false,
+   "evidence": "미조사",
+   "source_url": "",
+   "last_checked": "2026-11-02"
+  },
+  "job_postings": [],
+  "last_updated": "2026-11-08",
+  "growth_assessment": {
+   "signal": "strong_growth",
+   "rationale": "Google·Mercedes-Benz 등 전략 투자자 포함 대형 라운드로 runway 우수 (~$1B 누적). Austin(TX) 소재라 서부 우선순위는 아님. 스폰서/안전직군 공고는 아직 미조사.",
+   "last_checked": "2026-11-08"
+  }
+ },
+ {
+  "name": "FORT Robotics",
+  "location": "Philadelphia, PA",
+  "region_priority": "other",
+  "industry": "robotics",
+  "headcount_estimate": "미확인 (verified 아님)",
+  "funding_stage": "Series B 총 $60.5M",
+  "recent_news": [
+   {
+    "date": "2025-08-07",
+    "summary": "Series B 추가 $18.9M (총 $60.5M) — 로봇 safety/제어 시스템. (일부 페이지는 2026-10 표기, 원 발표는 2025로 보임)",
+    "source_url": "https://www.robotics247.com/article/fort_robotics_secures_additional_18.9_m_in_series_b_bringing_total_funding_to_60.5_m/fort_robotics"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": false,
+   "evidence": "미조사",
+   "source_url": "",
+   "last_checked": "2026-11-02"
+  },
+  "job_postings": [],
+  "last_updated": "2026-11-02",
+  "growth_assessment": {
+   "signal": "unknown",
+   "rationale": "아직 리서치 전 (이후 실행에서 평가 예정).",
+   "last_checked": "2026-11-03"
+  }
+ },
+ {
+  "name": "Agility Robotics",
+  "location": "Salem, OR / Fremont, CA (공고 기준)",
+  "region_priority": "west_coast",
+  "industry": "robotics",
+  "headcount_estimate": "약 342명 (2025-10 프로필, 2026 프로필도 동일)",
+  "funding_stage": "2026-06-24 Churchill Capital Corp XI와 SPAC 합병 발표 ($2.5B 밸류, 총 $620M+ 중 신규 $200M); Series C $400M(2025)",
+  "recent_news": [
+   {
+    "date": "2026-06-24",
+    "summary": "Agility, Churchill Capital XI SPAC 합병으로 Nasdaq 상장 추진, 밸류 $2.5B, Digit v5 양산 자금.",
+    "source_url": "https://cryptobriefing.com/agility-robotics-spac-churchill-capital-xi/"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": false,
+   "evidence": "지원서에 'employment visa sponsorship 필요 여부' 문항은 있으나 스폰서 제공 여부는 미확인.",
+   "source_url": "",
+   "last_checked": "2026-11-03"
+  },
+  "job_postings": [
+   {
+    "title": "Staff Systems Engineer, Functional Safety (Fremont, CA)",
+    "date_found": "2026-11-03",
+    "url": "",
+    "sponsorship_mentioned": false,
+    "notes": "약 $219.5K (집계 기준). 직접 공고 URL 및 라이브 여부 미확인 — 회사 careers 페이지에서 확인 필요."
+   }
+  ],
+  "growth_assessment": {
+   "signal": "strong_growth",
+   "rationale": "GXO·Schaeffler·Toyota 등 고객, 상장 추진으로 자금 확보 중이나 SPAC 종료/주주 투표 리스크와 2024-04 레이오프 이력, 소스 간 총 조달액 불일치(미해결).",
+   "last_checked": "2026-11-03"
+  },
+  "last_updated": "2026-11-03"
+ },
+ {
+  "name": "Google DeepMind (Robotics)",
+  "location": "Mountain View, CA",
+  "region_priority": "west_coast",
+  "industry": "robotics",
+  "headcount_estimate": "미확인 (Alphabet 소속)",
+  "funding_stage": "Alphabet 자회사",
+  "recent_news": [
+   {
+    "date": "2026-11-08",
+    "summary": "Staff Functional Safety Engineer, Robotics 공고 ($256-279K+equity, CFSE 요구) 확인.",
+    "source_url": "https://jobs.anitab.org/companies/google-24698/jobs/87002645-staff-functional-safety-engineer-robotics-deepmind"
+   }
+  ],
+  "visa_sponsorship": {
+   "known": true,
+   "evidence": "집계 페이지 한 곳에서 'historically provides H1B sponsorship' 언급(공고 원문 미확인). Google은 대규모 H-1B 스폰서로 알려져 있음.",
+   "source_url": "https://jobs.anitab.org/companies/google-24698/jobs/87002645-staff-functional-safety-engineer-robotics-deepmind",
+   "last_checked": "2026-11-08"
+  },
+  "job_postings": [
+   {
+    "title": "Staff Functional Safety Engineer, Robotics",
+    "date_found": "2026-11-08",
+    "url": "https://jobs.anitab.org/companies/google-24698/jobs/87002645-staff-functional-safety-engineer-robotics-deepmind",
+    "sponsorship_mentioned": true,
+    "notes": "CFSE(TÜV/exida 등) 요구; 오픈 여부 미확인(페이지 접근 불가로 원문 미검증). 프로필(ISO 26262 10년 + AI)에 매우 적합."
+   }
+  ],
+  "growth_assessment": {
+   "signal": "strong_growth",
+   "rationale": "Alphabet 자금력으로 재무 리스크 매우 낮고 로보틱스 안전 Staff급 채용은 로봇 사업 확대 신호. 단 대기업이라 채용 경쟁이 치열하고 CFSE 자격이 요구됨.",
+   "last_checked": "2026-11-08"
+  },
+  "last_updated": "2026-11-08"
+ }
 ]
